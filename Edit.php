@@ -8,7 +8,7 @@
 </head>
 <body>
 
-	<h1>EDIT DATA</h1>
+	<h1>EDIT DATA23</h1>
 	<?php require_once('navbar.php');?>
 	<?php 
 		require_once("opendb.php");
